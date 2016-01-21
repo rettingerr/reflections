@@ -12,3 +12,10 @@ Branches provide a way to make major changes in your code experimentally or perh
 
 How do the diagrams help you visualize the branch structure?
 It helps to understand the relationships of branches, commits and their parents
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The new secondary branch is now part of the master branch.
+To visualize what parts of the code will be affected by the merge.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging can often result in conflicts which need to often be resolved manually.
