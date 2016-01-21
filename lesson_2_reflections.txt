@@ -4,3 +4,11 @@ A hidden directory named .git is created.  This is where git tracks and maintain
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area is an interim step between the working directory and the repository. The working directory is where files are located, the staging area is where selected files are prepared for addition to the repository via commits.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Use git diff --staged to view uncommitted changes in the staging area
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches provide a way to make major changes in your code experimentally or perhaps different results
+
+How do the diagrams help you visualize the branch structure?
+It helps to understand the relationships of branches, commits and their parents
