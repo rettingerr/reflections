@@ -19,3 +19,4 @@ Provides you with the confidence that you can undo changes by reverting to previ
 Now that you have your workspace set up, what do you want to try using Git for?
 I'm going to try using it with my next programming project
 
+Lesson 1 completed
