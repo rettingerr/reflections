@@ -19,3 +19,5 @@ To visualize what parts of the code will be affected by the merge.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Automatic merging can often result in conflicts which need to often be resolved manually.
+
+Lesson Complete
