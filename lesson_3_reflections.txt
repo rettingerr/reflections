@@ -1,1 +1,2 @@
 Test pushing changes to GitHub and auto logon
+Another test
